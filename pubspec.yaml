@@ -1,6 +1,6 @@
 name: toby_in_dart
 description: Toby trying out the Dart programming language hehe
-version: 1.0.1
+version: 2.0.0
 homepage: https://github.com/tobycm/toby-in-dart
 
 environment:
@@ -8,3 +8,5 @@ environment:
 
 dev_dependencies:
   lints: ^2.0.0
+dependencies:
+  http: ^0.13.5
